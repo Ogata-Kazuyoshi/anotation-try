@@ -1,0 +1,5 @@
+local:
+  environment1:
+    value: hogehoge
+  environment2:
+    value: fugafuga

@@ -1,3 +1,12 @@
 spring:
+  profiles:
+    active: local
 server:
   port: 8890
+
+local:
+  environment1:
+    value: environment11
+  environment2:
+    value: environment22
+
